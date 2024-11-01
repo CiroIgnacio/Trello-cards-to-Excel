@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+dist/
+
+# Environment
+.env
+.env.*
+
+# Data files
+data/*.xlsx
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
